@@ -1,0 +1,14 @@
+, shrink-to-fit=no"
+
+bootstrap classes
+
+(1-12)
+col col-sm col-md col-lg col-xl col-xxl
+
+offset class
+offset offset-sm offset-md-----(margin-left)
+-----------------------------------------------------------------
+
+width="250px"   height="350px"
+
+            <button type="button" class="btn btn-warning find-1">Find Now</button>

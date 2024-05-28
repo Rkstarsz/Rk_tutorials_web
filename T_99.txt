@@ -1,0 +1,80 @@
+<div class="col-lg-3">
+                <div class="card " style="width: 18rem;">
+                    <img src="Images/Image-11.avif" class="card-img-top img-fluid" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">Card title</h5>
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
+                            the card's content.</p>
+                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3">
+                <div class="card" style="width: 18rem;">
+                    <img src="Images/Home-2.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">Card title</h5>
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
+                            the card's content.</p>
+                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3">
+                <div class="card" style="width: 18rem;">
+                    <img src="Images/Home-1.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">Card title</h5>
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
+                            the card's content.</p>
+                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3">
+                <div class="card" style="width: 18rem;">
+                    <img src="Images/Home-2.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">Card title</h5>
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
+                            the card's content.</p>
+                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                    </div>
+                </div>
+            </div>
+
+
+---------------------------------------------
+
+        <div class="container mt-5">
+            <div class="row">
+                <div class="col-md-4 col-sm-2">
+                    <img src="Images/Image-22.avif" width="300px" height="350px" ></div>
+                    <div class="col-lg-2">
+                        <img class="margin-2" width="300px" height="350px" src="Images/Image-21.avif">
+                    
+                    </div>
+            </div>
+        </div>
+
+
+<!--Explore-1-->
+    <section class="section-1">
+        <div class="container-fluid Exp-1">
+            <div class="row text-center text-white">
+                <div class="col-lg-8 col-md-8 col-sm-8">
+                    <div>
+                        <h1 class="mt-5">Explore PG By Your Needs</h1>
+                        <h5 class="find-2">We have a wide range of PG's in your hometown</h5>
+                        
+
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-4 col-sm-4">
+                    <div>
+                        <img src="Images/Chair-1.jpg" class="mt-5" width="200px" height="100px">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section><!--//Explore-1-->

@@ -1,0 +1,15 @@
+JavaScript
+
+document.getElementbyid (we can select id)
+
+document.getElementbyclassname (we can select class)
+
+document.queryselector (we can select all)
+
+in html
+<script> tags
+
+for console
+console.log for norma message
+console.warn
+console.error

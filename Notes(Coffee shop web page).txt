@@ -1,0 +1,5 @@
+Web-page(Coffee Shop)
+
+icon for *(<i class="fa-regular fa-star"></i>)
+
+col-sm-6 col-md-6 col-lg-3 col-12

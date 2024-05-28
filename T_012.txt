@@ -1,0 +1,1 @@
+          <a class="ps-5 navbar-brand text-primary fs-2 logo-1">Flipkart<p class="d-block fs-6 text-secondary">Explore<span class="text-warning"> plus</span></p></a>

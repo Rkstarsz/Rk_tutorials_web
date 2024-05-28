@@ -1,0 +1,5 @@
+s-auto mb-2 mb-lg-0
+
+ style="width:320px;height:350px"
+
+<p class="mumbai">s/w India</p>

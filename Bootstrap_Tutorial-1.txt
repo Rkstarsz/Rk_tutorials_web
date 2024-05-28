@@ -1,0 +1,67 @@
+bootstarp:
+
+Margin-left: ms
+
+margin-right: me
+
+mt and mb
+
+Row:-horizontal allignment
+justify-content-between (create space between blocs with row attcahed)
+-around (space extra from start and end)
+-evenly(equal space between)
+
+vertical alignments (start , end, center, baseline , strecth(bydefault), around, evenly, between)s
+
+align-items
+
+align-content (for more hieght required contnet same)
+
+align-self (for particulat content)
+
+
+Flex:
+flex-row-reverse
+
+flex-column
+for vertical
+
+flex-wrap(default) nowrap:- outside row
+
+wrap-reverse above content
+
+flex-fill in col
+
+flex-lg-row or column then -reverse -wrap -nowrap
+
+
+Display
+
+d-inline-block
+d-block
+d-flex (full width)
+d-inline-flex (inline)
+
+d-none, d-block for hide content in small screen
+
+d-none d-lg-block
+
+float
+start end none
+
+width w-number maxwidth mw  w-auto similar for height h-
+
+viewhieght vh-
+
+viewwidth vw-
+
+min-vh-
+
+min-vw-
+
+
+                        <div class="d-flex icon-2">
+                            <li><a href="#"><i class='bx bxl-twitter'></i></a></li>
+                            <li><a href="#"><i class='bx bxl-facebook-circle'></i></a></li>
+                            <li><a href="#"><i class='bx bxl-instagram-alt'></i></a></li>
+                        </div>
